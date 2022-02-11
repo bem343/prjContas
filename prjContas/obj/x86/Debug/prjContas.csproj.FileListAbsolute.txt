@@ -1,0 +1,8 @@
+D:\Downloads\PROJETOS\prjContas\prjContas\prjContas\bin\Debug\prjContas.exe
+D:\Downloads\PROJETOS\prjContas\prjContas\prjContas\bin\Debug\prjContas.pdb
+D:\Downloads\PROJETOS\prjContas\prjContas\prjContas\obj\x86\Debug\prjContas.frmPrincipal.resources
+D:\Downloads\PROJETOS\prjContas\prjContas\prjContas\obj\x86\Debug\prjContas.Properties.Resources.resources
+D:\Downloads\PROJETOS\prjContas\prjContas\prjContas\obj\x86\Debug\prjContas.csproj.GenerateResource.Cache
+D:\Downloads\PROJETOS\prjContas\prjContas\prjContas\obj\x86\Debug\prjContas.exe
+D:\Downloads\PROJETOS\prjContas\prjContas\prjContas\obj\x86\Debug\prjContas.pdb
+D:\Downloads\PROJETOS\prjContas\prjContas\prjContas\obj\x86\Debug\prjContas.csprojResolveAssemblyReference.cache
